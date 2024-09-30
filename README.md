@@ -1,0 +1,2 @@
+# firstjs.js
+javascript
